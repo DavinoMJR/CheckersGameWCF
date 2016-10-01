@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamasGamePlayer1", "DamasGamePlayer1\DamasGamePlayer1.csproj", "{7FB505EF-F53E-4E26-9937-2FF5C8A1AA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamasGame.Entities", "DamasGameEntities\DamasGame.Entities.csproj", "{C95D75EA-309D-4E40-A866-83E92E17B25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamasGame.Util", "DamasGameUtil\DamasGame.Util.csproj", "{15AC3114-8388-42AB-9C77-5EE0C92C2A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB505EF-F53E-4E26-9937-2FF5C8A1AA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB505EF-F53E-4E26-9937-2FF5C8A1AA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB505EF-F53E-4E26-9937-2FF5C8A1AA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB505EF-F53E-4E26-9937-2FF5C8A1AA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95D75EA-309D-4E40-A866-83E92E17B25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95D75EA-309D-4E40-A866-83E92E17B25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95D75EA-309D-4E40-A866-83E92E17B25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95D75EA-309D-4E40-A866-83E92E17B25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AC3114-8388-42AB-9C77-5EE0C92C2A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AC3114-8388-42AB-9C77-5EE0C92C2A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AC3114-8388-42AB-9C77-5EE0C92C2A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AC3114-8388-42AB-9C77-5EE0C92C2A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1Host\bin\DamasGamePlayer1.Host.dll.config
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1Host\bin\DamasGamePlayer1.Host.dll
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1Host\bin\DamasGamePlayer1.Host.pdb
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1Host\obj\Debug\DamasGamePlayer1.Host.dll
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1Host\obj\Debug\DamasGamePlayer1.Host.pdb

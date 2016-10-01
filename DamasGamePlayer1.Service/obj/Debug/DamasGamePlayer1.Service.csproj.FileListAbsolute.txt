@@ -1,0 +1,17 @@
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\obj\Debug\DamasGamePlayer1.Service.csprojResolveAssemblyReference.cache
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGamePlayer1.Service.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGamePlayer1.Service.pdb
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\Castle.Core.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\Castle.Facilities.WcfIntegration.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\Castle.Windsor.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGame.Entities.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGamePlayer1.exe
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGame.Util.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGame.Entities.pdb
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGamePlayer1.pdb
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\Castle.Core.xml
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\Castle.Facilities.WcfIntegration.xml
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\Castle.Windsor.xml
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\bin\Debug\DamasGame.Util.pdb
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\obj\Debug\DamasGamePlayer1.Service.dll
+C:\Users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGamePlayer1.Service\obj\Debug\DamasGamePlayer1.Service.pdb

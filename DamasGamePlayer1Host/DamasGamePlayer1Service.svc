@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DamasGamePlayer1.Service.DamasGamePlayer1Service"  %>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="71fbbef4-3d08-4e26-aead-a8a18902b76a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="d387e318-ea1b-4c9d-9874-449e948d9230" SourceId="1" SourceUrl="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="2b0ffd52-debd-48d2-b2ce-a3eca6324843" SourceId="1" SourceUrl="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="d8f22d70-445b-4da8-88f9-0bac87496530" SourceId="1" SourceUrl="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" />
+    <MetadataFile FileName="DamasGame.Entities.xsd" MetadataType="Schema" ID="c10e71dd-c7ad-4a50-8264-2a3e2631342b" SourceId="1" SourceUrl="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" />
+    <MetadataFile FileName="System.ServiceModel.xsd" MetadataType="Schema" ID="c11959dd-5459-4a24-b8ff-7e308fd148d8" SourceId="1" SourceUrl="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" />
+    <MetadataFile FileName="System.xsd" MetadataType="Schema" ID="31e37f09-3168-4ad4-b740-dfd480e08a81" SourceId="1" SourceUrl="net.tcp://localhost:8222/DamasGamePlayer2Service/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

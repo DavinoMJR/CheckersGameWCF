@@ -1,0 +1,7 @@
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\obj\Debug\DamasGameEntities.csprojResolveAssemblyReference.cache
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\bin\Debug\DamasGameEntities.dll
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\bin\Debug\DamasGameEntities.pdb
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\bin\Debug\DamasGameUtil.dll
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\bin\Debug\DamasGameUtil.pdb
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\obj\Debug\DamasGameEntities.dll
+c:\users\davin\documents\visual studio 2013\Projects\DamasGamePlayer1\DamasGameEntities\obj\Debug\DamasGameEntities.pdb
